@@ -1,2 +1,1 @@
-Hello Testing case1
-
+print("Test case1")
